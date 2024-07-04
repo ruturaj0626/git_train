@@ -26,5 +26,3 @@
 26. Protect main branch with branch protection rules
 27. Use Git rebase for cleaner commit history
 28. Set up SSH keys for secure authentication
-
-check
