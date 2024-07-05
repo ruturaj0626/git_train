@@ -25,11 +25,7 @@
 25. Collaborate with others using GitHub Issues and Projects
 26. Protect main branch with branch protection rules
 27. Use Git rebase for cleaner commit history
-<<<<<<< HEAD
 28. Set up SSH keys for secure authentication
 
 
-QAWE5W 
-=======
-28. Set up SSH keys for secure authentication
->>>>>>> d4ae7d693f7a55e08bee3858732a2a468b829120
+QAWE5W 4VHUG
