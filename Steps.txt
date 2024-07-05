@@ -27,9 +27,6 @@
 27. Use Git rebase for cleaner commit history
 28. Set up SSH keys for secure authentication
 
-
-
-che
-zck
+....
 
 
